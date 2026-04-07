@@ -22,6 +22,8 @@ Legge til ekstra funksjonalitet viss eg har ekstra tid til overs
 ## Teknologi: 
 vue.js, bootstrap, SQL Server 
 
+Bruker Omega 365 CTP (core technology platform) som rammeverk
+
 ## Håndtering av endringer:
 Eg skal sørge for at datamodellen og appen skal være fleksibel og kan endres viss ein kunde spørr om mer/endret funksjonalitet. 
 

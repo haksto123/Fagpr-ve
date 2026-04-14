@@ -41,6 +41,10 @@
 - you then get sent to back to the photo bookings page where you can then view your booking in the my bookings tab
 <img width="1902" height="491" alt="image" src="https://github.com/user-attachments/assets/2237b207-954d-4a94-91b4-e18355d6ee4e" />
 
+- You also get an SMS confirming your booking! If you dont have a phone number attached to your account dont worry, it will then send a mail confirming the booking. 
+<img width="1080" height="987" alt="image" src="https://github.com/user-attachments/assets/b40d21d2-9404-4925-a24f-7678142c7d47" />
+
+
 - If you regret your booking you can easily cancel it by clicking the "cancel booking" button 
 
 - The booking will also be inserted in the persons bookings grid that is in the edit photoshoots so admins can easily review the booking that has just been made.

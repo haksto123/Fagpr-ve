@@ -58,4 +58,8 @@
 
 * Bookingen vil også bli lagt inn i persons bookings gridet som er i edit photoshoots slik at admin enkelt kan se bookingen som nettopp ble gjort.
 
+* Viss ein dag er fully booked så kommer det opp i Bookings tabben
+  <img width="1722" height="341" alt="image" src="https://github.com/user-attachments/assets/675c3c97-a666-4856-a506-95d22cafe9ca" />
+
+
   </details>

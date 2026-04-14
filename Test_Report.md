@@ -8,6 +8,7 @@
 | Check that you cant go back further than the current date | ✅ | works |<img width="2539" height="469" alt="image" src="https://github.com/user-attachments/assets/ed2fd3bb-0e35-43c0-bc7c-88fa558f99af" />|
 | Days that are fully booked show up as red and you cant click on them | ✅ | works | <img width="2504" height="437" alt="image" src="https://github.com/user-attachments/assets/91c40806-167e-4cef-8041-aab965f192c2" />|
 | Not able to go to a booking without selecting a date first | ✅ | works | |
+| If you manage to get through the UI without selecting a date, nothing will show | ✅ | works | <img width="1398" height="232" alt="image" src="https://github.com/user-attachments/assets/0a8aa9cf-842e-4467-ac03-55122bf48d13" />|
 
 </details>
 

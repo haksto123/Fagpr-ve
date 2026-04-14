@@ -119,7 +119,7 @@ There should also be a custom security check in the triggers for extra security.
 <details>
   <summary>App Structure</summary>
 
-See the [User Manual](https://github.com/haksto123/provefagprove/blob/main/User_Manual.md) for a quick walkthrough.
+See the [User Manual](User_Manual_EN.md) for a quick walkthrough.
 
 ---------------------------------------------------------------------
 The total amount of apps I have created is 3. One for the Calendar (The Page you start on). One for the Booking Dashboard where you can enter a booking, see the bookings you have booked, and this is where you can edit photoshoots if you have the required permissions. 

@@ -1,11 +1,13 @@
 # System Dokumentasjon
+
 <table align="center">
   <tr>
     <td><b><a href="System_Documentation_EN.md"><code>English</code></a></b></td>
     <td><a href="System_Documentation_NO.md">Norwegian</a></td>
   </tr>
 </table>
-## Task
+
+## Oppgave
 
 * Utvikle en fotobooking-applikasjon hvor brukere kan booke fotoshoots. En fotoshoot må minst ha en dato, en lokasjon, en beskrivelse og et maks antall personer. Brukere må oppgi navn og telefonnummer etter booking.
 * Fotoshoot-teamet har kun kapasitet til å gjennomføre 3 bookinger per dag.

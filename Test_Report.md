@@ -1,7 +1,7 @@
 # Test that all the functionality works as expected
 
 <details>
-<summary> Calendear app </summary>
+<summary> Calendar app </summary>
 
 | Functionality | Result | Description | Pictures |
 |---------------|--------|-------------|----------|
@@ -24,6 +24,7 @@
 | When creating a booking it shows up under My Bookings tab | ✅ | works | <img width="498" height="358" alt="image" src="https://github.com/user-attachments/assets/ddf48a6e-6fba-45ea-a703-431715e2b972" />|
 | You get a message/email when booking | ✅❌ | works, sometimes sends a lot more data than necessary but works most of the time | <img width="320" height="350" alt="image" src="https://github.com/user-attachments/assets/ec4950cd-2bf2-4303-ae90-e272b539eccc" />|
 | Cancelling booking | ✅ | works | <img width="349" height="130" alt="image" src="https://github.com/user-attachments/assets/e9f74f4b-e6a9-4c3d-b7d9-52556a53008a" />|
+| Not able to book something twice | ✅ | works | <img width="1039" height="397" alt="image" src="https://github.com/user-attachments/assets/b43cee2d-d775-427b-bb6f-0e72fd9026d6" />|
 | Not able to overlap time | ✅ | works | <img width="1758" height="307" alt="image" src="https://github.com/user-attachments/assets/bd5626fe-08b8-46fe-a853-afadbf24d0e5" />|
 | Not able to see other users bookings | ✅ | works | |
 </details>

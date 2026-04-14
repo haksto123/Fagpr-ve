@@ -56,4 +56,8 @@
 
 - The booking will also be inserted in the persons bookings grid that is in the edit photoshoots so admins can easily review the booking that has just been made.
 
+- If they day is fully booked it says in the Bookings tab
+  <img width="1722" height="341" alt="image" src="https://github.com/user-attachments/assets/2fef45a7-3b82-41e2-98dc-93544116e46c" />
+
+
   </details>

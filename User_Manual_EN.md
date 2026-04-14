@@ -10,7 +10,7 @@
 <details>
 <summary> Admin Tab </summary>
 
-- You can only create, edit, and delete quizzes if you have the proper permissions. If you only have user role the "edit photoshoots" tab will not show up.
+- You can only create, edit, and delete photoshoots if you have the proper permissions. If you only have user role the "edit photoshoots" tab will not show up.
 - To create a photoshoot you will have to go in the edit photoshoots tab, then press the button create new booking, this will then open a modal where you can write in all the necessary details for the booking.
   <img width="1727" height="1155" alt="image" src="https://github.com/user-attachments/assets/a22301c9-6f7d-45d1-af9b-8fbd5bb31792" />
   <img width="491" height="485" alt="image" src="https://github.com/user-attachments/assets/eec8600e-652e-4218-9f6d-73b88fded874" />

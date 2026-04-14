@@ -55,5 +55,8 @@ Strevde litt med selve kalender siden, fordi eg trur den beste måten var å lag
 
 <details>
 <summary> 14.04.26 (Tirsdag) </summary>
-<ul><li> tekst </li></ul>
+<ul>
+  <li> Har fikset noen små feil, også lagde ein den proccen som sender SMS/Email når du lager ein booking. </li>
+  <li> Resten av dagen har gått til å skrive brukerveiledning, system dokumentasjon, og test rapport </li>
+</ul>
 </details>
